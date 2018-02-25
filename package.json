@@ -2,7 +2,7 @@
   "name": "Materialise",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "lodash": "^4.17.5",
     "materialize-css": "^0.100.2"
