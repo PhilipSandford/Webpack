@@ -1,0 +1,20 @@
+{
+  "name": "Materialise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
